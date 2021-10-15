@@ -1,0 +1,21 @@
+nyalakan xampp
+
+jalanin action
+
+python -m rasa_core_sdk.endpoint --actions actions
+
+jalanin ini
+
+python -m rasa_core.run --core models/dialogue --nlu models/nlu/legal_project/legal_model --endpoints endpoints.yml --credentials credentials.yml --cors "*"
+
+
+lalu cmd di file chatromm
+yarn install dulu kalau belum ada dan node.js
+
+lalu
+yarn serve
+
+jalan kan di web 
+
+http://127.0.0.1:8080/index.html
+

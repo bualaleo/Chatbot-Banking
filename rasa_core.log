@@ -1,0 +1,266 @@
+Rasa process starting
+Rasa process starting
+Rasa process starting
+Rasa process starting
+Rasa process starting
+Rasa process starting
+Rasa process starting
+Rasa process starting
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'give_definitions_of_types_of_accounts'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'give_definitions_of_types_of_accounts'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'give_definitions_of_types_of_accounts'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'give_definitions_of_types_of_accounts'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'give_definitions_of_types_of_accounts'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'give_definitions_of_types_of_accounts'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Failed to run custom action 'give_definitions_of_types_of_accounts'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'give_definitions_of_types_of_accounts'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Tried to set non existent slot 'nama_orgtua'. Make sure you added all your slots to your domain file.
+Tried to set non existent slot 'nama_orgtua'. Make sure you added all your slots to your domain file.
+Tried to set non existent slot 'nama_orgtua'. Make sure you added all your slots to your domain file.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Tried to set non existent slot 'nama_orgtua'. Make sure you added all your slots to your domain file.
+Tried to set non existent slot 'nama_orgtua'. Make sure you added all your slots to your domain file.
+Tried to set non existent slot 'nama_orgtua'. Make sure you added all your slots to your domain file.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Tried to set non existent slot 'nama_orgtua'. Make sure you added all your slots to your domain file.
+Tried to set non existent slot 'nama_orgtua'. Make sure you added all your slots to your domain file.
+Tried to set non existent slot 'nama_orgtua'. Make sure you added all your slots to your domain file.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Tried to set non existent slot 'nama_orgtua'. Make sure you added all your slots to your domain file.
+Tried to set non existent slot 'nama_orgtua'. Make sure you added all your slots to your domain file.
+Tried to set non existent slot 'nama_orgtua'. Make sure you added all your slots to your domain file.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_blok_customer'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_blok_customer'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_blok_customer'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_blok_customer'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_blok_customer'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_blok_customer'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_blok_customer'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_blok_customer'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_blok_customer'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_blok_customer'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_blok_customer'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_blok_customer'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_blok_customer'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_blok_customer'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_blok_customer'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_blok_customer'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_blok_customer'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_blok_customer'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_blok_customer'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_blok_customer'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_blok_customer'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_blok_customer'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_blok_customer'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_blok_customer'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_blok_customer'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_blok_customer'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Failed to run custom action 'action_blok_customer'. Action server responded with a non 200 status code of 500. Make sure your action server properly runs actions and returns a 200 once the action is executed. Error: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5055/webhook
+Encountered an exception while running action 'action_blok_customer'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005
+Rasa process starting
+Restoring parameters from models/nlu/legal_project/legal_model\intent_classifier_tensorflow_embedding.ckpt
+Rasa Core server is up and running on http://localhost:5005

@@ -1,0 +1,104 @@
+%YAML 1.1
+---
+actions:
+- action_blok_customer
+- action_pin_customer
+- action_saldo_customer
+- utter_greet
+- utter_account
+- utter_affirmation
+- utter_unclear
+- utter_goodbye
+- utter_did_that_help
+- utter_can_help
+- utter_tanya_jenis_rekening
+- utter_jenis_rekening_silver
+- utter_jenis_rekening_gold
+- utter_thanks
+- utter_tanya_nama
+- utter_tanya_syarat
+- utter_tanya_norek
+- utter_final_blok
+- utter_tanya_type
+- utter_link_registrasi
+- utter_pernyataan_pin
+
+entities:
+- nama
+- card
+- kartu
+- norek
+
+
+intents:
+- greet
+- goodbye
+- account
+- affirm
+- deny
+- info_rekening
+- jenis_rekening_silver
+- jenis_rekening_gold
+- gratitude
+- tanya_nama
+- not_yet
+- blok_kartuATM
+- no_rek
+- registrasi_rekening
+- type_rekening
+- pin
+- saldo
+
+slots:
+
+  nama:
+    type: text
+  card:
+    type: text
+  kartu:
+    type: text
+  norek:
+    type: text
+templates:
+
+
+  utter_tanya_jenis_rekening:
+  - text: "Oke kak, disini kita menyediakan 2 jenis rekening ada Silver dan Gold mau jenis rekening apa kak?\n"
+  utter_account:
+  - text: "Baik kak, Kakak mau buat rekening yang jenis apa ya kak?\n"
+  utter_did_that_help:
+  - text: "Apakah kakak butuh bantuan lagi?\n"
+  utter_goodbye:
+  - text: "Bye\n"
+  utter_jenis_rekening_silver:
+  - text: "Baik kak untuk pembuatan rekening jenis silver terdapat beberapa persyaratan seperti: \n
+              1.Telah memiliki kartu pengenalan seperti : KTP/SIM/Pasport, \n
+              2.Tabungan ini bisa dibuka dengan setoran awal minimal Rp 100.000 \n
+              3.Dikenakan biaya Rp 5.500,- / bulannya \n
+              Apakah saudara berencana membuat rekening baru?"
+  utter_jenis_rekening_gold:
+  - text: "baik kak untuk pembuatan rekening jenis gold terdapat beberapa persyaratan seperti: \n
+              1.Telah memiliki kartu pengenalan seperti : KTP/SIM/Pasport, \n
+              2.Tabungan ini bisa dibuka dengan setoran awal minimal Rp 200.000 \n
+              3.Dikenakan biaya Rp 10.000,- / bulannya \n
+              Apakah saudara bernecana membuat rekening baru?\n"
+  utter_greet:
+  - text: "Hallo kak, ada yang bisa kami bantu ?:)\n"
+  utter_unclear:
+  - text: "Saya tidak mengerti pertanyaan nya kak, bisa diulangi lagi kak?\n"
+  utter_thanks:
+  - text: "baik, terima kasih kak\n"
+  utter_tanya_nama:
+  - text: "ini dengan nama siapa ya kak?\n"
+  utter_tanya_syarat:
+  - text: "sebelumnya kakak udah mengetahui segala persyaratan pembuatan rekening ?\n"
+  utter_tanya_norek:
+  - text: "sebelumnya, boleh kirim nomor rekening nya kak? \n"
+  utter_final_blok:
+  - text: "Rekening kakak sudah berhasil kami blok. \n"
+  utter_tanya_type:
+  - text: "Mau Rekening type apa kak? kebetulan di Bank kita menyediakan 2 tipe, yaitu: GOLD dan SILVER \n"
+  utter_link_registrasi:
+  - text: "Baik kak , mohon untuk melanjutkan pembuatan rekening baru mengisi form yang telah kami sediakan pada link ini http://localhost/bank \n"
+  utter_pernyataan_pin:
+  - text: "Baik kak, untuk forget pin maka kami akan memberikan pertanyaan kepada saudara, apakah saudara bersedia?\n"
